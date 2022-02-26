@@ -14,7 +14,7 @@ into a global [zustand](https://www.npmjs.com/package/zustand) store.
 ## Installation
 
 ```sh
-npm install middleware-zustand-xstate-fsm zustand xstate
+{npm install, pnpm add, yarn add} @bemedev/middleware-zustand-xstate-fsm zustand xstate
 ```
 
 <br/>

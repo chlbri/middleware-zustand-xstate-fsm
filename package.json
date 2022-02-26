@@ -1,6 +1,6 @@
 {
   "name": "@bemedev/middleware-zustand-xstate-fsm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The middleware between zustand and @xstate/fsm",
   "author": "chlbri <bri_lvi@icloud.com>",
   "license": "MIT",
