@@ -1,0 +1,1 @@
+pnpm upgrade --latest
