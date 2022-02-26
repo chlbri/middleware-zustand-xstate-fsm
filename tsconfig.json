@@ -71,5 +71,6 @@
     "forceConsistentCasingInFileNames": false /* Disallow inconsistently-cased references to the same file. */
   },
   "include": ["globals.d.ts", "src/**/*.ts"],
+  "files": ["globals.d.ts"],
   "exclude": ["node_modules", "dist", "lib"]
 }

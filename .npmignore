@@ -159,3 +159,9 @@ tests
 build.npm.js
 gitpod.temp.yml
 globals.d.ts
+
+#Tests
+**/*.test.ts
+**/*.test.js
+**/*.test.jsx
+**/*.test.tsx
