@@ -72,5 +72,5 @@
   },
   "include": ["globals.d.ts", "src/**/*.ts"],
   "files": ["globals.d.ts"],
-  "exclude": ["node_modules", "dist", "lib"]
+  "exclude": ["node_modules", "dist", "lib", "src/**/*.test.ts"]
 }
