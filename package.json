@@ -1,5 +1,5 @@
 {
-  "name": "middleware-zustand-xstate-fsm",
+  "name": "@bemedev/middleware-zustand-xstate-fsm",
   "version": "0.1.0",
   "description": "The middleware between zustand and @xstate/fsm",
   "author": "chlbri <bri_lvi@icloud.com>",
