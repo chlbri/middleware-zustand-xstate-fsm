@@ -21,6 +21,7 @@
     "git-push": "git push --tags"
   },
   "devDependencies": {
+    "@bemedev/npm-publish": "^0.0.1-pnpm2",
     "@testing-library/react-hooks": "^7.0.2",
     "@types/faker": "^6.6.9",
     "@types/jest": "^27.4.1",
