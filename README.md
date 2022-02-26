@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-# middleware-zustand-xstate-fsm
+# @bemedev/middleware-zustand-xstate-fsm
 
 This middleware allows you to easily put your
 [@xstate/fsm](https://www.npmjs.com/package/@xstate/fsm) state machines
@@ -24,7 +24,7 @@ npm install middleware-zustand-xstate-fsm zustand xstate
 ```tsx
 import create from 'zustand';
 import { createMachine } from '@xstate/fsm';
-import middleware from 'middleware-zustand-xstate-fsm';
+import middleware from '@bemedev/middleware-zustand-xstate-fsm';
 
 // create your machine
 const machine = createMachine({
